@@ -1,0 +1,20 @@
+Tugas Exploratory Data Analysis Python
+
+Silahkan Download data "data_penguin.csv" yang sudah tersedia di google class romm. 
+
+kemudian install package yang diperlukan.
+
+Tugas : 
+1. Buatkan summary dari data yang ada.
+2. Lakukan filter dengan syarat island adalah Torgersen
+3. Urutkan data berdasarkan column culmen_length_mm dari yang kecil ke yang terbesar
+4. Urutkan data berdasarkan column Island dari A-Z
+5. Tunjukan jenis-jenis spesies penguin yang ada.
+6. Hitung hitung total untuk masing-masing island dan tunjukan island terbanyak dan terendah.
+7. Lakukan pemilihan variable dengan kriteria species, flipper_length_mm, sex dan tunjukan 25 data teratas.
+8. Lakukan filter data dengan syarat species Gentoo, island dream
+9. lakukan pengecekan outlier pada variabel flipper_length_mm menggunakan boxplot
+9. lakukan pengecekan distribusi pada variabel flipper_length_mm menggunakan histogram
+10. Lakukan grouping berdasarkan spesies kemudian cari nilai rata-rata untuk body_mass_g
+11. Lakukan grouping berdasarkan spesies dan island kemudian cari nilai rata-rata untuk culmen_length_mm
+ 
